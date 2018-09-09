@@ -19,4 +19,4 @@ URL veya screenshotları herhangi bir databasede kaydedilmemektedir.
 -----------------
 
 
-Projede şuan bir database işlemi olmadığından yüksek boyutlu filelarda performance iyileştirmesi ilk olarak url dataların uygun sizeda chunklar halinde gönderilmesiyle olabilir
+Projede şuan bir database işlemi olmadığından yüksek boyutlu filelarda scalebility ilk olarak url dataların uygun sizeda chunklar halinde gönderilmesiyle olabilir
