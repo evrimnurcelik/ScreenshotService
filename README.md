@@ -12,7 +12,7 @@ Screenshot Service
 -------------
 
 Projede urllerin screenshotlarının alınması için Selenium Firefox Driver kullanılmıştır
-Unit testte'de servisin mocklanabilmesi için Mockito kullanılmıştir.
+Unit testte de servisin mocklanabilmesi için Mockito kullanılmıştir.
 URL veya screenshotları herhangi bir databasede kaydedilmemektedir.
 
 -----------------
