@@ -7,7 +7,7 @@ Screenshot Service
 3) Spring yüklü olan bir Eclipse'te "4DSightChallenge" projesi "Import existing Maven project" ile import edilir
 4) Proje "clean install" goal ü ile build edilir ve "update maven project" yapılmalıdır.
 5) Sprint Boot projesi çalıştırılır
-6) Service endpointi = "http://localhost:8080/api/screenshot?name=urls". "urls" proje içinde bulunan file'in ismi. Bu dosya içinde screenshotı alınacak urller bulunmaktadır. File isteğ göre güncellenebilir.
+6) Service endpointi = "http://localhost:8080/api/screenshot?name=urls". "urls" proje içinde bulunan file'in ismi. Bu dosya içinde screenshotı alınacak urller bulunmaktadır. File isteğe göre güncellenebilir.
 7) Serviceten dönen pathlerde alınan screenshotlar bulunmaktadır
 
 -------------
